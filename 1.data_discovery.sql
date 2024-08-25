@@ -17,7 +17,3 @@ WHERE table_name = 'results';
 SELECT *
 FROM `demo_catalog`.information_schema.tables
 WHERE table_name = 'results';
-
--- COMMAND ----------
-
-
